@@ -367,13 +367,7 @@ int element::get_name(char str[])      /*Function to compare the name with the a
   gotoxy(10,19);
   cout<<"Project developed by:";
   gotoxy(15,21);
-  cout<<"1.Vilas M ( 4619368 ) ";
-  gotoxy(15,23);
-  cout<<"2.Preetham Upadhya ( 4619364 )";
-  gotoxy(15,25);
-  cout<<"3.Kalon Acharjee ( 4619370 ) ";
-  gotoxy(15,27);
-  cout<<"4.Sneha Mahajan ( 4619373 ) ";
+  cout<<"Vilas M ( 4619368 ) ";
   gotoxy(10,33);
   cout<<"Press any key to continue. . . . . ";
 
